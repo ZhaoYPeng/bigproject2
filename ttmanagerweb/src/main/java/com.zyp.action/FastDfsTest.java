@@ -8,6 +8,7 @@ import java.io.IOException;
 public class FastDfsTest {
     public void testFast() throws IOException, MyException {
         //测试git并上传2
+        //测试git并上传2
         //加载配置文件
         ClientGlobal.init("D:\\zyp\\IdeaWorkSpace\\bigproject2\\ttmanagerweb\\src\\main\\resources\\client.conf");
 
