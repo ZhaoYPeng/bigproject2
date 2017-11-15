@@ -4,7 +4,7 @@ import org.csource.common.MyException;
 import org.csource.fastdfs.*;
 
 import java.io.IOException;
-
+//测试git并上传
 public class FastDfsTest {
     public void testFast() throws IOException, MyException {
         //加载配置文件
